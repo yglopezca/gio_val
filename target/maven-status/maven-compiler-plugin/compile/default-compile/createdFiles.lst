@@ -1,0 +1,6 @@
+com\miproyecto\modelo\Usuario.class
+com\miproyecto\servlets\prueb.class
+com\miproyecto\servlets\ValidarUsuarioServlet.class
+com\mycompany\miproyecto\JakartaRestConfiguration.class
+com\mycompany\miproyecto\resources\JakartaEE8Resource.class
+com\miproyecto\servlets\AuthFilter.class
